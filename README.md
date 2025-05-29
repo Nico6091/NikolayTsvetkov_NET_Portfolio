@@ -13,4 +13,4 @@
 - CV страница: [🌐 GitHub Pages](https://nico6091.github.io/NikolayTsvetkov_NET_portfolio)
 
 ---
- *Създадено с ❤️ и .NET*
+ *Създадено с .NET*
